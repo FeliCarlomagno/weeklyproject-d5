@@ -2,7 +2,8 @@ body {
   margin: 1em;
   background-color: #221f1f;
 }
-.navbar-logo img {
+
+.navbar-logo > img {
   width: 100px;
   height: 55px;
 }
@@ -13,24 +14,12 @@ body {
   font-size: 20px;
   color: #f5f5f1;
 }
+
 #kids {
   color: #f5f5f1;
   font-size: 0.8em;
 }
+
 h2 {
   color: #f5f5f1;
-}
-
-footer {
-  color: gray;
-  font-size: 0.8em;
-}
-
-footer p {
-  margin: 0.5em;
-}
-
-#movieImg:hover {
-  transform: scale(1.1);
-  box-shadow: 5px 5px 15px 5px #000000;
-}
+}/*# sourceMappingURL=App.css.map */
